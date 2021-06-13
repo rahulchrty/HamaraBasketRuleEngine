@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HamaraBasketRuleEngine.CLI", "HamaraBasketRuleEngine.CLI\HamaraBasketRuleEngine.CLI.csproj", "{E0E7C86D-6ADD-49FE-AD9A-C0126A618247}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HamaraBasketRuleEngine.Test", "HamaraBasketRuleEngine.Test\HamaraBasketRuleEngine.Test.csproj", "{06CA55DA-A0CD-4C32-8328-A6DD74F804E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HamaraBasketRuleEngine.Model", "HamaraBasketRuleEngine.Model\HamaraBasketRuleEngine.Model.csproj", "{9683AA77-FA63-45AF-AD8D-5A64F7F93B71}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HamaraBasketRuleEngine.Interface", "HamaraBasketRuleEngine.Interface\HamaraBasketRuleEngine.Interface.csproj", "{7D3E2ECD-0517-4D09-A53A-7B911FD071F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HamaraBasketRuleEngine.Business", "HamaraBasketRuleEngine.Business\HamaraBasketRuleEngine.Business.csproj", "{A31CEAE4-892C-436B-A257-401C5F6B61B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HamaraBasketRuleEngine.Repository", "HamaraBasketRuleEngine.Repository\HamaraBasketRuleEngine.Repository.csproj", "{4C447DD9-4524-40F2-92CD-091716612238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HamaraBasketRuleEngine.Domain", "HamaraBasketRuleEngine.Domain\HamaraBasketRuleEngine.Domain.csproj", "{6743AEE4-76E2-42CB-9793-7463C8DE8E2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0E7C86D-6ADD-49FE-AD9A-C0126A618247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0E7C86D-6ADD-49FE-AD9A-C0126A618247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0E7C86D-6ADD-49FE-AD9A-C0126A618247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0E7C86D-6ADD-49FE-AD9A-C0126A618247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06CA55DA-A0CD-4C32-8328-A6DD74F804E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CA55DA-A0CD-4C32-8328-A6DD74F804E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CA55DA-A0CD-4C32-8328-A6DD74F804E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CA55DA-A0CD-4C32-8328-A6DD74F804E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9683AA77-FA63-45AF-AD8D-5A64F7F93B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9683AA77-FA63-45AF-AD8D-5A64F7F93B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9683AA77-FA63-45AF-AD8D-5A64F7F93B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9683AA77-FA63-45AF-AD8D-5A64F7F93B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D3E2ECD-0517-4D09-A53A-7B911FD071F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D3E2ECD-0517-4D09-A53A-7B911FD071F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D3E2ECD-0517-4D09-A53A-7B911FD071F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D3E2ECD-0517-4D09-A53A-7B911FD071F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A31CEAE4-892C-436B-A257-401C5F6B61B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31CEAE4-892C-436B-A257-401C5F6B61B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31CEAE4-892C-436B-A257-401C5F6B61B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31CEAE4-892C-436B-A257-401C5F6B61B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C447DD9-4524-40F2-92CD-091716612238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C447DD9-4524-40F2-92CD-091716612238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C447DD9-4524-40F2-92CD-091716612238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C447DD9-4524-40F2-92CD-091716612238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6743AEE4-76E2-42CB-9793-7463C8DE8E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6743AEE4-76E2-42CB-9793-7463C8DE8E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6743AEE4-76E2-42CB-9793-7463C8DE8E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6743AEE4-76E2-42CB-9793-7463C8DE8E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27595BF6-BD7A-49C2-9769-FCD899AEA55F}
+	EndGlobalSection
+EndGlobal

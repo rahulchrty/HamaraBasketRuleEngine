@@ -1,0 +1,410 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Test\\HamaraBasketRuleEngine.Test.csproj": {}
+  },
+  "projects": {
+    "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Business\\HamaraBasketRuleEngine.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Business\\HamaraBasketRuleEngine.Business.csproj",
+        "projectName": "HamaraBasketRuleEngine.Business",
+        "projectPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Business\\HamaraBasketRuleEngine.Business.csproj",
+        "packagesPath": "C:\\Users\\Riki\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Riki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Domain\\HamaraBasketRuleEngine.Domain.csproj": {
+                "projectPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Domain\\HamaraBasketRuleEngine.Domain.csproj"
+              },
+              "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Interface\\HamaraBasketRuleEngine.Interface.csproj": {
+                "projectPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Interface\\HamaraBasketRuleEngine.Interface.csproj"
+              },
+              "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Repository\\HamaraBasketRuleEngine.Repository.csproj": {
+                "projectPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Repository\\HamaraBasketRuleEngine.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Domain\\HamaraBasketRuleEngine.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Domain\\HamaraBasketRuleEngine.Domain.csproj",
+        "projectName": "HamaraBasketRuleEngine.Domain",
+        "projectPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Domain\\HamaraBasketRuleEngine.Domain.csproj",
+        "packagesPath": "C:\\Users\\Riki\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Riki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Interface\\HamaraBasketRuleEngine.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Interface\\HamaraBasketRuleEngine.Interface.csproj",
+        "projectName": "HamaraBasketRuleEngine.Interface",
+        "projectPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Interface\\HamaraBasketRuleEngine.Interface.csproj",
+        "packagesPath": "C:\\Users\\Riki\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Riki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Domain\\HamaraBasketRuleEngine.Domain.csproj": {
+                "projectPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Domain\\HamaraBasketRuleEngine.Domain.csproj"
+              },
+              "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Model\\HamaraBasketRuleEngine.Model.csproj": {
+                "projectPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Model\\HamaraBasketRuleEngine.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Model\\HamaraBasketRuleEngine.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Model\\HamaraBasketRuleEngine.Model.csproj",
+        "projectName": "HamaraBasketRuleEngine.Model",
+        "projectPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Model\\HamaraBasketRuleEngine.Model.csproj",
+        "packagesPath": "C:\\Users\\Riki\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Riki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Repository\\HamaraBasketRuleEngine.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Repository\\HamaraBasketRuleEngine.Repository.csproj",
+        "projectName": "HamaraBasketRuleEngine.Repository",
+        "projectPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Repository\\HamaraBasketRuleEngine.Repository.csproj",
+        "packagesPath": "C:\\Users\\Riki\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Riki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Domain\\HamaraBasketRuleEngine.Domain.csproj": {
+                "projectPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Domain\\HamaraBasketRuleEngine.Domain.csproj"
+              },
+              "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Interface\\HamaraBasketRuleEngine.Interface.csproj": {
+                "projectPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Interface\\HamaraBasketRuleEngine.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Test\\HamaraBasketRuleEngine.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Test\\HamaraBasketRuleEngine.Test.csproj",
+        "projectName": "HamaraBasketRuleEngine.Test",
+        "projectPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Test\\HamaraBasketRuleEngine.Test.csproj",
+        "packagesPath": "C:\\Users\\Riki\\.nuget\\packages\\",
+        "outputPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Riki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Business\\HamaraBasketRuleEngine.Business.csproj": {
+                "projectPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Business\\HamaraBasketRuleEngine.Business.csproj"
+              },
+              "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Domain\\HamaraBasketRuleEngine.Domain.csproj": {
+                "projectPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Domain\\HamaraBasketRuleEngine.Domain.csproj"
+              },
+              "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Interface\\HamaraBasketRuleEngine.Interface.csproj": {
+                "projectPath": "D:\\Practice\\Dotnet\\gitrepo\\HamaraBasketRuleEngine\\HamaraBasketRuleEngine.Interface\\HamaraBasketRuleEngine.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

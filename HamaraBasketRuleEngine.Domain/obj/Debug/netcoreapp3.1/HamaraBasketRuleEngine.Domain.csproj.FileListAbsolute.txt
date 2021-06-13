@@ -1,0 +1,9 @@
+D:\Practice\Dotnet\HamaraBasketRuleEngine\HamaraBasketRuleEngine.Domain\bin\Debug\netcoreapp3.1\HamaraBasketRuleEngine.Domain.deps.json
+D:\Practice\Dotnet\HamaraBasketRuleEngine\HamaraBasketRuleEngine.Domain\bin\Debug\netcoreapp3.1\HamaraBasketRuleEngine.Domain.dll
+D:\Practice\Dotnet\HamaraBasketRuleEngine\HamaraBasketRuleEngine.Domain\bin\Debug\netcoreapp3.1\HamaraBasketRuleEngine.Domain.pdb
+D:\Practice\Dotnet\HamaraBasketRuleEngine\HamaraBasketRuleEngine.Domain\obj\Debug\netcoreapp3.1\HamaraBasketRuleEngine.Domain.csproj.AssemblyReference.cache
+D:\Practice\Dotnet\HamaraBasketRuleEngine\HamaraBasketRuleEngine.Domain\obj\Debug\netcoreapp3.1\HamaraBasketRuleEngine.Domain.AssemblyInfoInputs.cache
+D:\Practice\Dotnet\HamaraBasketRuleEngine\HamaraBasketRuleEngine.Domain\obj\Debug\netcoreapp3.1\HamaraBasketRuleEngine.Domain.AssemblyInfo.cs
+D:\Practice\Dotnet\HamaraBasketRuleEngine\HamaraBasketRuleEngine.Domain\obj\Debug\netcoreapp3.1\HamaraBasketRuleEngine.Domain.csproj.CoreCompileInputs.cache
+D:\Practice\Dotnet\HamaraBasketRuleEngine\HamaraBasketRuleEngine.Domain\obj\Debug\netcoreapp3.1\HamaraBasketRuleEngine.Domain.dll
+D:\Practice\Dotnet\HamaraBasketRuleEngine\HamaraBasketRuleEngine.Domain\obj\Debug\netcoreapp3.1\HamaraBasketRuleEngine.Domain.pdb

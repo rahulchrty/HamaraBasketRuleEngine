@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HamaraBasketRuleEngine.Domain\HamaraBasketRuleEngine.Domain.csproj" />
+    <ProjectReference Include="..\HamaraBasketRuleEngine.Model\HamaraBasketRuleEngine.Model.csproj" />
+  </ItemGroup>
+
+</Project>
